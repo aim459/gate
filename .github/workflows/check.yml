@@ -46,4 +46,5 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Show site URL
-        run: echo "site: https://aim459.github.io/gate/ (deploy outcome: ${{ steps.deployment.outcome }})"
+        run: |
+          echo "site: https://aim459.github.io/gate/ (deploy outcome: ${{ steps.deployment.outcome }})"
