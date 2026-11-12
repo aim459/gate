@@ -71,7 +71,12 @@ DEFAULT_EDGE_HOSTS = [
     "hk.cf.3666888.xyz:443",
     "best.hzample.kdns.fr:443",
     "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",     
+    "china-unicom.cname.cloudflare.468123.xyz:443", 
+    "www.wuduanyun.com:443",
+    "p.etime.vip:443",
+    "saas.072159.xyz:443",
+    "cf.itv888.cn:443",
+    "cdn.667891.xyz:443",  
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
